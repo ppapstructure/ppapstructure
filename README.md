@@ -17,6 +17,3 @@
 ### ☁️ Hosting
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-![JeongHwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppapstructure&show_icons=true&theme=radical)
