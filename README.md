@@ -19,4 +19,4 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
-![Sohyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohyun&show_icons=true&theme=radical)
+![JeongHwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppapstructure&show_icons=true&theme=radical)
