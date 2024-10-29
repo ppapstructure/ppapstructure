@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi there! I am JeongHwan 👋
+ 👋 Hi there! I am JeongHwan 👋
 
 ## 🛠 SKILL 🛠
    
